@@ -1,0 +1,10 @@
+Name;Age;City;Date;Income;Text
+Alice;25.0;New York;2023-11-25;50000;  This is some text with EXTRA   spaces.  
+Bob;30.0;  London  ;2023/12/15;60000;This has some Typos!
+Charlie;;Paris;2024-01-10;75000;more TEXT to clean.
+David;28.0;  London  ;2023-11-18;55000;  Remove leading and trailing spaces.   
+Eve;35.0;Tokyo;2024/02/05;120000;This is fine.
+Alice;25.0;New York ;2023-11-25;50000;  This is some text with EXTRA   spaces.  
+Mallory;;;2023-12-20;65000;
+Charlie;;Paris;2024-01-10;75000;more TEXT to clean.                                                  
+Mallory;;;2023-12-20;65000;
